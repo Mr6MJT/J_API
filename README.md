@@ -38,7 +38,7 @@ It creates Apache virtual host configurations for new subdomains dynamically, wr
 
 
 
-
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
 <pre>
