@@ -38,8 +38,7 @@ It creates Apache virtual host configurations for new subdomains dynamically, wr
 
 
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
+_________________________________________________
 
 <pre>
 mv domain.ao.conf /etc/apache2/sites-available
