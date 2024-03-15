@@ -24,6 +24,7 @@ Registration Endpoint (/reg):
 Handles POST requests for user registration.
 Checks if the provided email, username, or subdomain already exist in the database. If not, it inserts the user details into the database and creates a subdomain record using CloudFlare API. It also creates Apache virtual host configurations for the subdomain.
 Responds with a success message if registration is successful or appropriate error messages if user or subdomain already exists.
+
 Sign-in Endpoint (/signin):
 
 Handles POST requests for user sign-in.
